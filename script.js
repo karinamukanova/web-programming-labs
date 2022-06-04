@@ -1,7 +1,3 @@
-console.log("Всем привет");
-console.error("Сообщение Ошибка");
-console.warn("Сообщение предупреждение");
-
 function notReadyAlert() {
     alert('Sorry, not ready yet! \n Извините, еще не готово!');
     return false;
